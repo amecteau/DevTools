@@ -24,3 +24,9 @@ Favorite Developer Tools Links, Scripts and Descriptions
 [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017)
 
 [Web Essentials 2017](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017)
+
+## Training 
+[Pluralsight](https://www.pluralsight.com/)
+
+[Microsoft Courses](https://openedx.microsoft.com/courses)
+### 
