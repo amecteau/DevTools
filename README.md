@@ -34,3 +34,7 @@ Favorite Developer Tools Links, Scripts and Descriptions
 [Docker for Windows](https://www.docker.com/docker-windows)
 
 [Docker Hub](https://hub.docker.com/)
+
+## Visio
+[3d Blueprint Template](https://www.microsoft.com/en-us/download/confirmation.aspx?id=48243)
+[Azure Stencils](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41937)
