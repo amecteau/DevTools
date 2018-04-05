@@ -37,4 +37,5 @@ Favorite Developer Tools Links, Scripts and Descriptions
 
 ## Visio
 [3d Blueprint Template](https://www.microsoft.com/en-us/download/confirmation.aspx?id=48243)
+
 [Azure Stencils](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41937)
