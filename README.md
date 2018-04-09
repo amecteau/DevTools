@@ -17,7 +17,7 @@ Favorite Developer Tools Links, Scripts and Descriptions
 
 [NPM](https://www.npmjs.com/) Included With Node
 
-## Visual Studio 2017
+## Visual Studio 2017 
 
 [Main Site](https://my.visualstudio.com)
 ### Extensions and Updates
