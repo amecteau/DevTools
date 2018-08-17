@@ -39,3 +39,6 @@ Favorite Developer Tools Links, Scripts and Descriptions
 [3d Blueprint Template](https://www.microsoft.com/en-us/download/confirmation.aspx?id=48243)
 
 [Azure Stencils](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41937)
+
+## CSS Links
+[Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/)
